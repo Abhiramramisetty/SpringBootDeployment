@@ -128,7 +128,7 @@
         <i class="fas fa-chevron-left"></i>
     </button>
     <a href="mentordashboard"><i class="fas fa-home"></i><span>Dashboard</span></a>
-    <a href="viewstudents.jsp"><i class="fas fa-users"></i><span>View Students</span></a>
+    <a href="viewallstudents"><i class="fas fa-users"></i><span>View Students</span></a>
     <a href="assignproject"><i class="fas fa-home"></i><span>Assign Project</span></a>
     <a href="viewfeedback.jsp"><i class="fas fa-user-plus"></i><span>View FeedBack</span></a>
     <a href="mentorprofile.jsp"><i class="fas fa-id-card"></i><span>Profile</span></a>
